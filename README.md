@@ -53,4 +53,4 @@ You can learn more about the technologies used in this project through the follo
 - Next.js Documentation
 - Redux Toolkit Documentation
 - [Formik Documentation](https://formik.org/)
-- [Styled-components Documentation](https://styled-components.com/
+- [Styled-components Documentation](https://styled-components.com/)
